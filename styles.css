@@ -729,7 +729,7 @@ h2 {
         width: 100vw;
         height: auto;
         object-fit: cover;
-        border-radius: 10px;
+        border-radius: 0px;
     }
 
     .box {
